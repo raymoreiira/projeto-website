@@ -1,2 +1,2 @@
-# projeto-website
-Primeiro Projeto Web Site para Portfólio de Desenvolvedores Web
+# website-portfolio-reponsive
+ Modelo de portfólio responsivo
